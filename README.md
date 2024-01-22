@@ -6,7 +6,7 @@
 
 Tecnologias que estou estudando no momento:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c#)](https://skillicons.dev)
 
 ## 😎 Conecte-se comigo:
 
