@@ -13,7 +13,7 @@ Recife, Pernambuco · Brasil
 
 ## Sobre mim
 
-Sou profissional de Tecnologia da Informação com foco em **desenvolvimento de software**, especialmente backend com **Java e Spring Boot**. Gosto de construir aplicações úteis, explorar integrações e transformar necessidades reais em soluções bem organizadas.
+Sou profissional de Tecnologia da Informação com foco em **Desenvolvimento de Software e Dados**, especialmente backend com **Java e Spring Boot** ou **Python**. Gosto de construir aplicações úteis, explorar integrações e transformar necessidades reais em soluções bem organizadas.
 
 Sou graduado em **Análise e Desenvolvimento de Sistemas (UNINTER)**, curso **Sistemas para Internet na UNICAP**, pelo programa Embarque Digital, e tenho formação técnica em **Redes de Computadores**. Também concluí a formação em **Agentes Autônomos (Agentic AI)** da FIAP.
 
